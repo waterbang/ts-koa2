@@ -34,7 +34,8 @@
   "keywords": [
     "koa2",
     "tensorflow",
-    "object-detaction"
+    "object-detaction",
+    "typescript"
   ],
   "author": "waterbang",
   "license": "ISC"

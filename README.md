@@ -1,5 +1,6 @@
 # ts-koa2
 ts-koa2编写 RESTful API 手脚架🉑️
+再也不用重头创建koa2的TS编写环境。让您直接进入业务开发阶段。
 
 ### 克隆
 ``` shell
